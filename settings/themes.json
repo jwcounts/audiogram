@@ -9,10 +9,42 @@
     "waveTop": 150,
     "waveBottom": 420,
     "captionTop": 470,
-    "captionFont": "300 52px 'Source Sans Pro'",
+    "captionFont": "300 52px 'Milo'",
     "captionLineHeight": 52,
     "captionLineSpacing": 7,
     "captionLeft": 200,
+    "captionRight": 1080
+  },
+  "HPM Red": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#de1e3d",
+    "backgroundImage": "VectorSkyline-Red.png",
+    "captionTop": 20,
+    "captionLeft": 550,
+    "captionRight": 1080
+  },
+  "HPM Green": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#de1e3d",
+    "backgroundImage": "VectorSkyline-Green.png",
+    "captionTop": 20,
+    "captionLeft": 550,
+    "captionRight": 1080
+  },
+  "HPM Skyline": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#de1e3d",
+    "backgroundImage": "VectorSkyline-Skyline.png",
+    "captionTop": 20,
+    "captionLeft": 550,
+    "captionRight": 1080
+  },
+  "HPM DiverseCity": {
+    "backgroundColor": "#eee",
+    "foregroundColor": "#de1e3d",
+    "backgroundImage": "VectorSkyline-Diverse.png",
+    "captionTop": 730,
+    "captionLeft": 550,
     "captionRight": 1080
   },
   "Basic": {
@@ -27,16 +59,6 @@
     "backgroundColor": "#eee",
     "captionColor": "#515151",
     "waveColor": "#00b4ff"
-  },
-  "Background image with top right text": {
-    "captionAlign": "right",
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundImage": "subway.jpg",
-    "foregroundColor": "#fc0",
-    "waveBottom": 660,
-    "waveTop": 320
   },
   "Bars": {
     "pattern": "bars",
@@ -89,17 +111,5 @@
     "backgroundColor": "#ecd078",
     "foregroundColor": "#c02942",
     "pattern": "pixel"
-  },
-  "Square with background image": {
-    "width": 640,
-    "height": 640,
-    "samplesPerFrame": 64,
-    "waveTop": 20,
-    "waveBottom": 300,
-    "captionTop": 340,
-    "captionLeft": 20,
-    "captionRight": 620,
-    "foregroundColor": "#0eb8ba",
-    "backgroundImage": "nyc.png"
   }
 }

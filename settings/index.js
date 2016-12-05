@@ -26,6 +26,11 @@ module.exports = {
     { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-Light.ttf"), weight: 300 },
     { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-Bold.ttf"), weight: "bold" },
     { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-Italic.ttf"), style: "italic" },
-    { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-BoldItalic.ttf"), weight: "bold", style: "italic" }
+    { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-BoldItalic.ttf"), weight: "bold", style: "italic" },
+    { family: "Milo", file: path.join(__dirname, "fonts", "MiloComp.ttf") },
+    { family: "Milo", file: path.join(__dirname, "fonts", "MiloComp-Light.ttf"), weight: 300 },
+    { family: "Milo", file: path.join(__dirname, "fonts", "MiloComp-Bold.ttf"), weight: "bold" },
+    { family: "Milo", file: path.join(__dirname, "fonts", "MiloComp-Ita.ttf"), style: "italic" },
+    { family: "Milo", file: path.join(__dirname, "fonts", "MiloComp-BoldIta.ttf"), weight: "bold", style: "italic" }
   ]
 };
