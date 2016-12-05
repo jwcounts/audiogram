@@ -6,7 +6,7 @@
     "maxDuration": 300,
     "samplesPerFrame": 128,
     "pattern": "wave",
-    "captionAlign": "right",
+    "captionAlign": "left",
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 550,
