@@ -11,7 +11,7 @@
     "captionRight": 1220,
     "captionLeft": 550,
     "foregroundColor": "#fff",
-    "backgroundColor": "#cc0000",
+    "backgroundColor": "#d0112b",
     "waveBottom": 660,
     "waveTop": 320,
     "captionFont": "300 52px 'Milo'",
@@ -33,12 +33,13 @@
     "backgroundImage": "VectorSkyline-Diverse.png",
     "captionTop": 730
   },
-  "Wave Red": {
+  "Wave": {
     "pattern": "wave"
   },
-  "Wave Green": {
+  "Wave Inverse": {
     "pattern": "wave",
-    "backgroundColor": "#a9cf38"
+    "backgroundColor": "#fff",
+    "foregroundColor": "#d0112b"
   },
   "Wave Blue": {
     "pattern": "wave",
@@ -47,37 +48,35 @@
   "Pixels Red": {
     "pattern": "pixel"
   },
-  "Pixels Green": {
+  "Pixels Inverse": {
     "pattern": "pixel",
-    "backgroundColor": "#a9cf38"
+    "backgroundColor": "#fff",
+    "foregroundColor": "#d0112b"
   },
   "Pixels Blue": {
     "pattern": "pixel",
     "backgroundColor": "#276185"
   },
-  "Bars Red": {
+  "Bars": {
     "pattern": "bars"
   },
-  "Bars Green": {
+  "Bars Inverse": {
     "pattern": "bars",
-    "backgroundColor": "#a9cf38"
+    "backgroundColor": "#fff",
+    "foregroundColor": "#d0112b"
   },
   "Bars Blue": {
     "pattern": "bars",
     "backgroundColor": "#276185"
   },
-  "Bricks Red": {
+  "Bricks": {
     "pattern": "bricks",
-    "waveBottom": 0
+    "waveBottom": 720
   },
-  "Bricks Green": {
+  "Bricks Inverse": {
     "pattern": "bricks",
-    "backgroundColor": "#a9cf38",
-    "waveBottom": 0
-  },
-  "Bricks Blue": {
-    "pattern": "bricks",
-    "backgroundColor": "#276185",
-    "waveBottom": 0
+    "waveBottom": 720,
+    "backgroundColor": "#fff",
+    "foregroundColor": "#d0112b"
   }
 }
