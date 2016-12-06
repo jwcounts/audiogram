@@ -39,23 +39,17 @@
   "Wave Inverse": {
     "pattern": "wave",
     "backgroundColor": "#fff",
-    "foregroundColor": "#d0112b"
+    "foregroundColor": "#d0112b",
+    "backgroundImage": "HPM-Generic-Inverse.png"
   },
-  "Wave Blue": {
-    "pattern": "wave",
-    "backgroundColor": "#276185"
-  },
-  "Pixels Red": {
+  "Pixels": {
     "pattern": "pixel"
   },
   "Pixels Inverse": {
     "pattern": "pixel",
     "backgroundColor": "#fff",
-    "foregroundColor": "#d0112b"
-  },
-  "Pixels Blue": {
-    "pattern": "pixel",
-    "backgroundColor": "#276185"
+    "foregroundColor": "#d0112b",
+    "backgroundImage": "HPM-Generic-Inverse.png"
   },
   "Bars": {
     "pattern": "bars"
@@ -63,11 +57,8 @@
   "Bars Inverse": {
     "pattern": "bars",
     "backgroundColor": "#fff",
-    "foregroundColor": "#d0112b"
-  },
-  "Bars Blue": {
-    "pattern": "bars",
-    "backgroundColor": "#276185"
+    "foregroundColor": "#d0112b",
+    "backgroundImage": "HPM-Generic-Inverse.png"
   },
   "Bricks": {
     "pattern": "bricks",
@@ -77,6 +68,7 @@
     "pattern": "bricks",
     "waveBottom": 720,
     "backgroundColor": "#fff",
-    "foregroundColor": "#d0112b"
+    "foregroundColor": "#d0112b",
+    "backgroundImage": "HPM-Generic-Inverse.png"
   }
 }
