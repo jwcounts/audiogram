@@ -33,25 +33,51 @@
     "backgroundImage": "VectorSkyline-Diverse.png",
     "captionTop": 730
   },
-  "Wave": {
+  "Wave Red": {
     "pattern": "wave"
   },
-  "Pixels": {
+  "Wave Green": {
+    "pattern": "wave",
+    "backgroundColor": "#a9cf38"
+  },
+  "Wave Blue": {
+    "pattern": "wave",
+    "backgroundColor": "#276185"
+  },
+  "Pixels Red": {
     "pattern": "pixel"
   },
-  "Rounded Bars": {
-    "pattern": "roundBars"
+  "Pixels Green": {
+    "pattern": "pixel",
+    "backgroundColor": "#a9cf38"
   },
-  "Bars": {
+  "Pixels Blue": {
+    "pattern": "pixel",
+    "backgroundColor": "#276185"
+  },
+  "Bars Red": {
     "pattern": "bars"
   },
-  "Bricks": {
-    "pattern": "bricks"
+  "Bars Green": {
+    "pattern": "bars",
+    "backgroundColor": "#a9cf38"
   },
-  "Lines": {
-    "pattern": "line"
+  "Bars Blue": {
+    "pattern": "bars",
+    "backgroundColor": "#276185"
   },
-  "Curves": {
-    "pattern": "curve"
+  "Bricks Red": {
+    "pattern": "bricks",
+    "waveBottom": 0
+  },
+  "Bricks Green": {
+    "pattern": "bricks",
+    "backgroundColor": "#a9cf38",
+    "waveBottom": 0
+  },
+  "Bricks Blue": {
+    "pattern": "bricks",
+    "backgroundColor": "#276185",
+    "waveBottom": 0
   }
 }
