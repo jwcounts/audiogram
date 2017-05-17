@@ -33,6 +33,18 @@
     "backgroundImage": "VectorSkyline-Diverse.png",
     "captionTop": 730
   },
+  "Party Politics": {
+    "pattern": "wave",
+    "captionAlign": "left",
+    "captionTop": 400,
+    "captionRight": 800,
+    "captionLeft": 50,
+    "backgroundColor": "#fff",
+    "foregroundColor": "#d0112b",
+    "waveBottom": 485,
+    "waveTop": 235,
+    "backgroundImage": "Party-Politics-BG.jpg"
+  },
   "Wave": {
     "pattern": "wave"
   },
