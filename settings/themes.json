@@ -29,10 +29,6 @@
     "foregroundColor": "#d0112b",
     "backgroundImage": "VectorSkyline-Skyline.png"
   },
-  "HPM DiverseCity": {
-    "backgroundImage": "VectorSkyline-Diverse.png",
-    "captionTop": 730
-  },
   "Party Politics": {
     "captionTop": 450,
     "captionRight": 800,
@@ -47,12 +43,16 @@
   "Houston Matters": {
     "pattern": "bricks",
     "waveBottom": 720,
-    "backgroundImage": "houston_matters_audiogram.jpg"
+    "backgroundImage": "houston-matters-audiogram.jpg"
   },
   "InDepth": {
     "pattern": "bricks",
     "waveBottom": 720,
-    "backgroundImage": "news_in-depth.jpg"
+    "backgroundImage": "news-in-depth.jpg"
+  },
+  "HPM DiverseCity": {
+    "backgroundImage": "VectorSkyline-Diverse.png",
+    "captionTop": 730
   },
   "Wave": {
     "pattern": "wave"
