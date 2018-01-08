@@ -43,11 +43,17 @@
   "Houston Matters": {
     "pattern": "bricks",
     "waveBottom": 720,
+    "captionTop": 175,
+    "captionRight": 670,
+    "captionLeft": 55,
     "backgroundImage": "houston-matters-audiogram.jpg"
   },
   "InDepth": {
     "pattern": "bricks",
     "waveBottom": 720,
+    "captionTop": 175,
+    "captionRight": 670,
+    "captionLeft": 55,
     "backgroundImage": "news-in-depth.jpg"
   },
   "HPM DiverseCity": {
