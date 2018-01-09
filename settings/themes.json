@@ -19,15 +19,21 @@
     "captionLineSpacing": 7,
     "backgroundImage": "HPM-Generic.png"
   },
-  "HPM Red": {
-    "backgroundImage": "VectorSkyline-Red.png"
+  "Houston Matters": {
+    "pattern": "bricks",
+    "waveBottom": 720,
+    "captionTop": 190,
+    "captionRight": 740,
+    "captionLeft": 60,
+    "backgroundImage": "HouMatters_AudioGram_0117.jpg"
   },
-  "HPM Green": {
-    "backgroundImage": "VectorSkyline-Green.png"
-  },
-  "HPM Skyline": {
-    "foregroundColor": "#d0112b",
-    "backgroundImage": "VectorSkyline-Skyline.png"
+  "In-Depth": {
+    "pattern": "bricks",
+    "waveBottom": 720,
+    "captionTop": 180,
+    "captionRight": 670,
+    "captionLeft": 60,
+    "backgroundImage": "InDepth_AudioGram_0117.jpg"
   },
   "Party Politics": {
     "captionTop": 450,
@@ -40,21 +46,15 @@
     "waveTop": 235,
     "backgroundImage": "Party-Politics-BG.png"
   },
-  "Houston Matters": {
-    "pattern": "bricks",
-    "waveBottom": 720,
-    "captionTop": 175,
-    "captionRight": 650,
-    "captionLeft": 50,
-    "backgroundImage": "houston-matters-audiogram.jpg"
+  "HPM Red": {
+    "backgroundImage": "VectorSkyline-Red.png"
   },
-  "InDepth": {
-    "pattern": "bricks",
-    "waveBottom": 720,
-    "captionTop": 175,
-    "captionRight": 615,
-    "captionLeft": 50,
-    "backgroundImage": "news-in-depth.jpg"
+  "HPM Green": {
+    "backgroundImage": "VectorSkyline-Green.png"
+  },
+  "HPM Skyline": {
+    "foregroundColor": "#d0112b",
+    "backgroundImage": "VectorSkyline-Skyline.png"
   },
   "HPM DiverseCity": {
     "backgroundImage": "VectorSkyline-Diverse.png",
