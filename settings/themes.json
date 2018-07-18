@@ -46,6 +46,17 @@
     "waveTop": 235,
     "backgroundImage": "Party-Politics-BG.png"
   },
+  "Party Politics Takeover": {
+    "captionTop": 450,
+    "captionRight": 800,
+    "captionLeft": 50,
+    "backgroundColor": "#fff",
+    "captionColor": "#fff",
+    "foregroundColor": "#d0112b",
+    "waveBottom": 485,
+    "waveTop": 235,
+    "backgroundImage": "AG_PPtake-over.jpg"
+  },
   "HPM Red": {
     "backgroundImage": "VectorSkyline-Red.png"
   },
