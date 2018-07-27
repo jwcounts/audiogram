@@ -62,6 +62,8 @@
     "captionRight": 565,
 	"captionLeft": 40,
 	"captionBottom": 430,
+	"waveBottom": 720,
+	"waveTop": 430,
     "backgroundImage": "Hurricane-season_AG.png"
   },
   "HPM Red": {
