@@ -64,6 +64,7 @@
 	"captionBottom": 430,
 	"waveBottom": 720,
 	"waveTop": 430,
+	"captionFont": "300 48px 'Milo'",
     "backgroundImage": "Hurricane-season_AG.png"
   },
   "HPM Red": {
