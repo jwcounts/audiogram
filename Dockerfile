@@ -15,6 +15,8 @@ USER audiogram
 WORKDIR /home/audiogram
 
 # Clone repo
+FROM audiogram
+ARG CACHE_DATE=2018-07-26
 RUN git clone https://github.com/jwcounts/audiogram.git
 WORKDIR /home/audiogram/audiogram
 
