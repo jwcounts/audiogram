@@ -57,6 +57,13 @@
     "waveTop": 235,
     "backgroundImage": "AG_PPtake-over.jpg"
   },
+  "Hurricane Season": {
+    "captionTop": 205,
+    "captionRight": 565,
+	"captionLeft": 40,
+	"captionBottom": 430,
+    "backgroundImage": "Hurricane-season_AG.png"
+  },
   "HPM Red": {
     "backgroundImage": "VectorSkyline-Red.png"
   },
