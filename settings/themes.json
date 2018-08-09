@@ -57,6 +57,17 @@
     "waveTop": 235,
     "backgroundImage": "AG_PPtake-over.jpg"
   },
+  "Party Politics Scandals": {
+    "captionTop": 450,
+    "captionRight": 800,
+    "captionLeft": 50,
+    "backgroundColor": "#fff",
+    "captionColor": "#fff",
+    "foregroundColor": "#d0112b",
+    "waveBottom": 485,
+    "waveTop": 235,
+    "backgroundImage": "AG_PP_scandal.jpg"
+  },
   "Hurricane Season": {
     "captionTop": 205,
     "captionRight": 565,
