@@ -65,7 +65,8 @@
     "captionColor": "#fff",
     "foregroundColor": "#d0112b",
     "waveBottom": 535,
-    "waveTop": 285,
+	"waveTop": 285,
+	"captionFont": "300 42px 'Milo'",
     "backgroundImage": "AG_PP_scandal.jpg"
   },
   "Hurricane Season": {
